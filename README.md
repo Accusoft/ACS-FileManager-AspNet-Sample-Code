@@ -1,6 +1,6 @@
-# Accusoft Cloud Services File Manager Sample - AspNet
+# Accusoft Services File Manager Sample - AspNet
 
-This is a sample application demonstrating how to use the ACS file manager in .NET using C#.
+This is a sample application demonstrating how to use the Accusoft Services file manager in .NET using C#.
 
 ## Overview
 
@@ -8,7 +8,7 @@ This sample application uses .NET vNext, but the code for the request should be 
 
 ## Configuration
 
-The sample application requires an ACS API key in order to generate an OAuth token.
+The sample application requires an Accusoft Services API key in order to generate an OAuth token.
 You can obtain an API key by signing up at http://www.accusoft.com/products/accusoft-cloud-services/portal/.
 
 ## Setup
